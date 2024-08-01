@@ -1,0 +1,7 @@
+# Features:
+1. Tailwind setup
+2. Custom Nodes (pic + name)
+3. Dagre tree
+
+# Bugs:
+Fix new draggable edge
